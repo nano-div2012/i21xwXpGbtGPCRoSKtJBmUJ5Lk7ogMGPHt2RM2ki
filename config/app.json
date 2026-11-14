@@ -1,6 +1,12 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
+  "appName": "Toolsku",
+  "packageName": "com.web2apk.toolskuadpy",
   "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "permissions": [
+    "notification",
+    "location",
+    "file_manager",
+    "wifi_state",
+    "wake_lock"
+  ]
 }
